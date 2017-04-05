@@ -29,7 +29,7 @@ def power(num, exponent):
         answer *= num
         exponent -= 1
     return answer
-    # num ** exponent
+    # num ** exponent is another option for this
 
 
 def mod(num1, num2):
